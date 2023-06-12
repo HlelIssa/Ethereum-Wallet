@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ethereum Wallet</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="transfer">Transfer</string>
+    <string name="add_wallet">Add Wallet</string>
+    <string name="create_wallet">Create wallet</string>
+    <string name="try_again">Try again</string>
+    <string name="address">Address</string>
+    <string name="directory_already_created">Directory already created</string>
+    <string name="wallet_created">Wallet Created</string>
+    <string name="failed">Failed</string>
+    <string name="transaction_successful">Transaction successful:</string>
+    <string name="low_balance">Low balance</string>
+    <string name="balance_failed">Balance Failed</string>
+    <string name="connected">Connected</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="enter_eth_value_to_send">Enter Eth value to send</string>
+    <string name="enter_wallet_name">Enter wallet name</string>
+    <string name="enter_wallet_address">Enter wallet Address</string>
+    <string name="wallet_name">Wallet name</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="password">Password</string>
+    <string name="connect_to_ethereum_network">Connecting to Ethereum  Network</string>
+    <string name="error_message">Make sure wifi or cellular data is turned on and then try again.</string>
+    <string name="send_ethereum">Send Ethereum </string>
+    <string name="show_password">Show Password</string>
+    <string name="hide_password">Hide Password</string>
+</resources>
